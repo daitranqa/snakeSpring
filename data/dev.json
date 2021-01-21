@@ -1,0 +1,7 @@
+{
+  "Configuration": {
+    "hostUrl": "api.openweathermap.org/data/2.5/weather",
+    "userKey": ""
+  },
+  "Environment": {}
+}
